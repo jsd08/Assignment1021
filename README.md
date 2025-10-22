@@ -14,4 +14,4 @@ Tasks:
 9. In your repository’s README file, describe what happened when you tried to push your changes to their repository.  
    * What message did GitHub Desktop give you?
    * Why do you think this happened?
-   * What does this reveal about how Git handles remote permissions?
+   * What does this reveal about how Git handles remote permissions? ....
